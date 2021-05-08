@@ -50,7 +50,7 @@ p {
 
 /* Apply styles to hero */
 .hero {
-  height: 800px;
+  height: 600px;
   width: 100%;
   margin-bottom: 25px;
   background-image: url("../Images/digital-marketing-meeting.jpg");
