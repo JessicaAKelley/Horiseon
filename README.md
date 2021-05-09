@@ -14,7 +14,7 @@ Refactor client's Horiseon website to:
 - Follow logical structure
 - Provide accessible alt attributes for image elements
 - Provide heading attributes in sequential order
-- Provide concise and descriptibe title
+- Provide concise and descriptive title
 
 For additional task details, please refer to the [GitLab](https://ucb.bootcampcontent.com/UCB-Coding-Bootcamp/ucb-virt-bo-fsf-pt-04-2021-u-b/tree/master/01-HTML-Git-CSS/02-Challenge) project requirements for Challenge 1.
 
