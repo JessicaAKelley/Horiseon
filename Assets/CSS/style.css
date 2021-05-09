@@ -88,76 +88,31 @@ p {
   text-align: center;
 }
 
-.benefit-lead {
-  margin-bottom: 32px;
-  color: #ffffff;
+h3 {
+  margin-bottom: 10px;
+  text-align: center;
 }
 
+/* Combined box titles to condense code */
+.benefit-lead,
+.benefit-cost,
 .benefit-brand {
   margin-bottom: 32px;
   color: #ffffff;
 }
 
-.benefit-cost {
-  margin-bottom: 32px;
-  color: #ffffff;
-}
-
-.benefit-lead img {
-  display: block;
-  margin: 10px auto;
-  max-width: 150px;
-}
-
-.benefit-brand img {
-  display: block;
-  margin: 10px auto;
-  max-width: 150px;
-}
-
+/* Combined image block properties to condense code */
+.benefit-lead img,
+.benefit-brand img,
 .benefit-cost img {
   display: block;
   margin: 10px auto;
   max-width: 150px;
 }
 
-/* Apply styles to sections on lower left side */
-.search-engine-optimization {
-  margin-bottom: 20px;
-  padding: 50px;
-  height: 300px;
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
-  background-color: #0072bb;
-  color: #ffffff;
-}
-
-.search-engine-optimization img {
-  max-height: 200px;
-}
-
-.search-engine-optimization h2 {
-  margin-bottom: 20px;
-  font-size: 36px;
-}
-
-.online-reputation-management {
-  margin-bottom: 20px;
-  padding: 50px;
-  height: 300px;
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
-  background-color: #0072bb;
-  color: #ffffff;
-}
-
-.online-reputation-management img {
-  max-height: 200px;
-}
-
-.online-reputation-management h2 {
-  margin-bottom: 20px;
-  font-size: 36px;
-}
-
+/* Combined box properties to condense code */
+.search-engine-optimization,
+.online-reputation-management,
 .social-media-marketing {
   margin-bottom: 20px;
   padding: 50px;
@@ -167,10 +122,16 @@ p {
   color: #ffffff;
 }
 
+/* Combined image height to condense code */
+.search-engine-optimization img,
+.online-reputation-management img,
 .social-media-marketing img {
   max-height: 200px;
 }
 
+/* Combined h2 tags to condense code */
+.search-engine-optimization h2,
+.online-reputation-management h2,
 .social-media-marketing h2 {
   margin-bottom: 20px;
   font-size: 36px;
