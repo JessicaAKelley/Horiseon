@@ -2,9 +2,9 @@
 
 ## Preview:
 
-Check out [Horiseon's website](https://jessicaakelley.github.io/Horiseon/)
+Check out [Horiseon's website](https://jessicaakelley.github.io/Horiseon/)!
 
-[![horiseon_demo](docs/website_preview.mp4)](https://media.giphy.com/media/EAebOmfbxiVpCKmK73/giphy.gif)
+[![horiseon_demo](https://media.giphy.com/media/EAebOmfbxiVpCKmK73/giphy.gif)](https://media.giphy.com/media/EAebOmfbxiVpCKmK73/giphy.gif)
 
 ## The Task:
 
