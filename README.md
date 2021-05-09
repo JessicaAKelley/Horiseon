@@ -4,7 +4,7 @@
 
 Check out [Horiseon's website](https://jessicaakelley.github.io/Horiseon/)!
 
-<img src="https://media.giphy.com/media/EAebOmfbxiVpCKmK73/giphy.gif" width="480px" >
+[![website_demo](docs/website_preview.gif)](https://media.giphy.com/media/EAebOmfbxiVpCKmK73/giphy.gif)
 
 ## The Task:
 
